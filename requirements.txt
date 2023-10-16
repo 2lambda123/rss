@@ -1,6 +1,6 @@
 backports.ssl-match-hostname==3.4.0.2
 certifi==2015.4.28
-Jinja2==2.7.3
+Jinja2==2.11.3
 lxml==3.4.4
 MarkupSafe==0.23
 pycrypto==2.6.1
